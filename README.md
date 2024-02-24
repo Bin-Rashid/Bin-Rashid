@@ -29,7 +29,7 @@ I'm a passionate front-end developer with a knack for crafting engaging and resp
 </div>
 
 ### 📊 GitHub Stats
-![Bin Rashid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bin-Rashid&theme=shadow_red_icons=true)
+![Bin Rashid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bin-Rashid&theme=shadow_red=true)
 ### ✨ Most Used Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-Rashid&layout=compact&theme=radical)
 
