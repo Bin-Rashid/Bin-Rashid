@@ -28,13 +28,12 @@ I'm a passionate front-end developer with a knack for crafting engaging and resp
 
 </div>
 
-### 📊 GitHub Stats
-![Bin Rashid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bin-Rashid&show_icons=true&theme=gruvbox )
-
 
 ### ✨ Most Used Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-Rashid&layout=compact&theme=radical)
 
+### 📊 GitHub Stats
+![Bin Rashid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bin-Rashid&show_icons=true&theme=gruvbox )
+
 ### showcase :octocat: repositories 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bin-Rashid&repo=shawon_ahmed&theme=gruvbox)](https://github.com/Bin-Rashid/shawon_ahmed) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bin-Rashid&repo=git_practice&theme=gruvbox)](https://github.com/Bin-Rashid/git_practice)
