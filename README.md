@@ -31,31 +31,18 @@ I'm a passionate front-end developer with a knack for crafting engaging and resp
 
 </div>
 
-Feel free to explore my repositories and connect with me on [LinkedIn](https://inkedin.com/in/shawon-mojumder-wd) or [Twitter](https://twitter.com/ShawonBinRashd)!
 
 
-<table>
-  <tr>
-    <td>
+# GitHub Status
 
-### GitHub Stats
+🚀 Currently working on exciting projects and exploring new technologies! 
 
-![Bin Rashid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bin-Rashid&show_icons=true&theme=radical)
+🌐 Check out my latest repositories and contributions.
 
-    </td>
-    <td>
+📊 **Most Used Languages:**
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=full)
 
-### Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-Rashid&layout=compact&theme=radical)
-
-    </td>
-  </tr>
-</table>
-
-
-
-
+🔥 Let's collaborate and build amazing things together! 🤝
 
 
 
