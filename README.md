@@ -1,16 +1,16 @@
 ### Hi there 👋, I'm Shawon Mojumder
 ##### Web Developer
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-![Bin Rashid Banner] <p align=”center”>
-
-<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-
-</p>
-                                                                                                                            
+### Hi there 👋, I'm Shawon Mojumder
+#### Web Developer
+![Web Developer](https://images.unsplash.com/photo-1654277041218-84424c78f0ae?q=80&w=1462&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 I'm a passionate front-end developer with a knack for crafting engaging and responsive web experiences. My expertise lies in web design, WordPress development, and custom WordPress theme creation.
 
 - 🔭 I’m currently working on this page. 
+
+
+
+
 
 <div align="center">
 
