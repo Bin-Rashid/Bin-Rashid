@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with a divers
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=gray&color=blue&label=MySQL)](#)
 [![SQL](https://img.shields.io/badge/SQL-003366?style=for-the-badge&logo=sql&logoColor=white&labelColor=gray&color=darkblue&label=SQL)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=gray&color=blue&label=WordPress)](#)
-[![WordPress Theme Development](https://img.shields.io/badge/WordPress_Theme_Development-0088CC?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=gray&color=blue&label=WP Theme Dev)](#)
 [![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=gray&color=green&label=MS Excel)](#)
 [![MS Word](https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white&labelColor=gray&color=blue&label=MS Word)](#)
 [![MS PowerPoint](https://img.shields.io/badge/MS_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white&labelColor=gray&color=orange&label=MS PowerPoint)](#)
