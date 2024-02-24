@@ -9,9 +9,6 @@ I'm a passionate front-end developer with a knack for crafting engaging and resp
 
 
 
-
-
-
 <div align="center">
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
@@ -30,8 +27,6 @@ I'm a passionate front-end developer with a knack for crafting engaging and resp
 [![MS PowerPoint](https://img.shields.io/badge/MS_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](#)
 
 </div>
-
-Read the [documentation](https://yourusername.github.io/yourrepository).
 
 ## 📊 GitHub Stats
 ![Bin Rashid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bin-Rashid&show_icons=true&theme=radical) 
