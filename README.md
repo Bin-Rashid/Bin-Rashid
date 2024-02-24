@@ -34,25 +34,24 @@ I'm a passionate front-end developer with a knack for crafting engaging and resp
 Feel free to explore my repositories and connect with me on [LinkedIn](https://inkedin.com/in/shawon-mojumder-wd) or [Twitter](https://twitter.com/ShawonBinRashd)!
 
 
-<div style="display: flex;">
+<table>
+  <tr>
+    <td>
 
-  <div style="flex: 1;">
+### GitHub Stats
 
-    ### GitHub Stats
+![Bin Rashid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bin-Rashid&show_icons=true&theme=radical)
 
-    ![Bin Rashid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bin-Rashid&show_icons=true&theme=radical)
+    </td>
+    <td>
 
-  </div>
+### Most Used Languages
 
-  <div style="flex: 1;">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-Rashid&layout=compact&theme=radical)
 
-    ### Most Used Languages
-
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-Rashid&layout=compact&theme=radical)
-
-  </div>
-
-</div>
+    </td>
+  </tr>
+</table>
 
 
 
