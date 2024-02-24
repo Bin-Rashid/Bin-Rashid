@@ -1,34 +1,23 @@
-# Hi there, I'm Bin Rashid! 👋
+<div align="center">
 
-I'm a passionate software developer with a keen interest in [Your Primary Tech Stack]. Currently, I am [Your Current Role or Student Status]. I love to explore new technologies and contribute to open-source projects.
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL-003366?style=for-the-badge&logo=sql&logoColor=white)](#)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](#)
+[![WordPress Theme Development](https://img.shields.io/badge/WordPress_Theme_Development-0088CC?style=for-the-badge&logo=wordpress&logoColor=white)](#)
+[![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#)
+[![MS Word](https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](#)
+[![MS PowerPoint](https://img.shields.io/badge/MS_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](#)
 
-## 🔧 Technologies & Tools
+</div>
 
-![Tech1](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1&logoColor=white)
-![Tech2](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2&logoColor=white)
-![Tech3](https://img.shields.io/badge/-Tech3-333333?style=flat&logo=tech3&logoColor=white)
-
-## 🚀 Projects
-
-- **[Project Name 1](Link to Project 1):** Brief description of the project.
-
-  [![Project1](Project1_Image_Link)](Link to Project 1)
-
-- **[Project Name 2](Link to Project 2):** Brief description of the project.
-
-  [![Project2](Project2_Image_Link)](Link to Project 2)
-
-...
-
-## 🌱 I’m currently learning
-
-- [Learning Topic 1](Link to Learning Resource)
-- [Learning Topic 2](Link to Learning Resource)
-
-## 💬 Let's connect
-
-- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
-- Twitter: [@YourTwitterHandle](Link to Twitter)
+Feel free to explore my repositories and connect with me on [LinkedIn](Your LinkedIn Profile Link) or [Twitter](Your Twitter Profile Link)!
 
 ## 📊 GitHub Stats
 
