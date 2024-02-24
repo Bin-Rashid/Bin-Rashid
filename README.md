@@ -1,4 +1,4 @@
-![](https://pbs.twimg.com/profile_banners/1614454756067651584/1708787353/600x200)
+![](https://pbs.twimg.com/profile_banners/1614454756067651584/1708791006/1500x500)
 
 I'm a passionate front-end developer with a knack for crafting engaging and responsive web experiences. My expertise lies in web design, WordPress development, and custom WordPress theme creation.
 
