@@ -35,4 +35,4 @@ I'm a passionate front-end developer with a knack for crafting engaging and resp
 
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
