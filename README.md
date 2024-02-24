@@ -1,3 +1,7 @@
+# Hi there! 👋 I'm Bin Rashid
+
+Welcome to my GitHub profile! I'm a passionate front-end developer with a diverse skill set. Here are some of the technologies I work with:
+
 <div align="center">
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=gray&color=success&label=HTML)](#)
@@ -18,6 +22,8 @@
 </div>
 
 Feel free to explore my repositories and connect with me on [LinkedIn](Your LinkedIn Profile Link) or [Twitter](Your Twitter Profile Link)!
+
+
 
 ## 📊 GitHub Stats
 
