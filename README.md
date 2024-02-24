@@ -31,7 +31,7 @@ I'm a passionate front-end developer with a knack for crafting engaging and resp
 
 </div>
 
-Feel free to explore my repositories and connect with me on [LinkedIn](Your LinkedIn Profile Link) or [Twitter](Your Twitter Profile Link)!
+Feel free to explore my repositories and connect with me on [LinkedIn](https://inkedin.com/in/shawon-mojumder-wd) or [Twitter](https://twitter.com/ShawonBinRashd)!
 
 
 
