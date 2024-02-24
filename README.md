@@ -31,24 +31,7 @@ I'm a passionate front-end developer with a knack for crafting engaging and resp
 
 </div>
 
-# GitHub Status
-
-🚀 Currently working on exciting projects and deploying with [Vercel](https://vercel.com).
-
-[![Vercel Status](https://vercel.com/api/www/status/badge?style=flat&user=YourVercelUsername&repo=YourVercelRepo)](https://vercel.com/YourVercelUsername/YourVercelRepo)
-
-🌐 Exploring new technologies and learning every day.
-
-💬 Open to collaboration and discussions. Feel free to reach out!
-
-📊 **Most Used Languages:**
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
-
-🔧 Always looking for ways to improve and optimize code.
-
-Let's code and make an impact! 💻🌟
-
-
+Read the [documentation](https://yourusername.github.io/yourrepository).
 
 ## 📊 GitHub Stats
 ![Bin Rashid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bin-Rashid&show_icons=true&theme=radical) 
