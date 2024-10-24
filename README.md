@@ -2,7 +2,7 @@
 
 I'm a passionate front-end developer with a knack for crafting engaging and responsive web experiences. My expertise lies in web design, WordPress development, and custom WordPress theme creation.
 
-- 🔭 I’m currently working on Nextgen Innovation LTD. 
+- 🔭 I’m currently working on tenderbase.co.uk 
 - 💎 I’m currently learning JS & React 
 - 📫 How to reach me: shawonbinrashid@gmail.com 
 
